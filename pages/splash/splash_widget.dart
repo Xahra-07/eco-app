@@ -68,7 +68,7 @@ class _SplashWidgetState extends State<SplashWidget> {
             SizedBox(height: 12.0),
             // App name
             Text(
-              'G-Smart Monitor',
+              'Eco',
               style: FlutterFlowTheme.of(context).headlineLarge.override(
                 fontFamily: 'Outfit',
                 color: Colors.white,

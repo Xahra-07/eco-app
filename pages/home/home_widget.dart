@@ -166,7 +166,7 @@ class _HomeWidgetState extends State<HomeWidget> {
                 // Footer
                 Center(
                   child: Column(mainAxisSize: MainAxisSize.min, children: [
-                    Text('G-Smart Monitor', style: FlutterFlowTheme.of(context).bodySmall.override(fontFamily: 'Readex Pro', color: Color(0xFF9E9E9E), fontSize: 12.0, letterSpacing: 0.0)),
+                    Text('Eco', style: FlutterFlowTheme.of(context).bodySmall.override(fontFamily: 'Readex Pro', color: Color(0xFF9E9E9E), fontSize: 12.0, letterSpacing: 0.0)),
                     Text('Grow it smartly', style: FlutterFlowTheme.of(context).bodySmall.override(fontFamily: 'Readex Pro', color: Color(0xFFBDBDBD), fontSize: 10.0, letterSpacing: 0.0)),
                   ]),
                 ),
